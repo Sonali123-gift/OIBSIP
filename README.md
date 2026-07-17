@@ -8,7 +8,7 @@ This project is part of the Data Analytics Internship at Oasis Infobyte (OIBSIP)
 
 ## Dataset
 
-The dataset used in this project is the Superstore Sales dataset. It contains retail order information, including order dates, customer segments, product categories, sub-categories, product names, sales, quantity, discounts, and profit.
+The dataset used in this project is the Superstore Sales dataset from Kaggle credit goes to original owner. It contains retail order information, including order dates, customer segments, product categories, sub-categories, product names, sales, quantity, discounts, and profit.
 
 ---
 
