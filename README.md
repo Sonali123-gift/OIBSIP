@@ -94,7 +94,7 @@ The dataset used in this project is the Superstore Sales dataset from Kaggle cre
 
 ## Author
 
-**Zin Nwe Moe** — Data Analytics Intern, Oasis Infobyte
+**Zin Nwe Moe(Sonali)** — Data Analytics Intern, Oasis Infobyte
 
 ---
 
